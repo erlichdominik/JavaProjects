@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74c42d50-0d88-45e2-909e-3bf94da9be06" name="Default Changelist" comment="" />
+    <list default="true" id="74c42d50-0d88-45e2-909e-3bf94da9be06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PPJ_task16/src/com/erlich/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PPJ_task16/src/com/erlich/Car.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +18,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UhTU6EDLpWZruD5A3wWXMmNUqr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="EuclideanPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -112,10 +122,11 @@
       <screen x="0" y="0" width="1200" height="770" />
     </state>
     <state width="1157" height="191" key="GridCell.Tab.0.right/0.0.1200.770@0.0.1200.770" timestamp="1575997845166" />
-    <state x="35" y="12" key="new project wizard" timestamp="1576006625300">
-      <screen x="0" y="0" width="1200" height="770" />
+    <state x="44" y="15" key="new project wizard" timestamp="1576700564027">
+      <screen x="0" y="0" width="1500" height="970" />
     </state>
     <state x="35" y="12" key="new project wizard/0.0.1200.770@0.0.1200.770" timestamp="1576006625300" />
+    <state x="44" y="15" key="new project wizard/0.0.1500.970@0.0.1500.970" timestamp="1576700564027" />
     <state x="264" y="175" width="672" height="677" key="run.anything.popup" timestamp="1575839698178">
       <screen x="0" y="0" width="1200" height="770" />
     </state>

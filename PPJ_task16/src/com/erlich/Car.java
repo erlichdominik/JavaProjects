@@ -9,9 +9,8 @@ public class Car {
         this.kilometersTravelled = 0;
     }
 
-    public void fill() throws Explosion{
-        int randomNumber = (int)(Math.random() * 100 + 1);
-        if (randomNumber >= 0 && randomNumber <= 10) {
+    public void fill(){
+        if (Math.random() < 0.1) {
             throw new Explosion("BOOOM" );
         } else {
             this.amountOfFuel += (int)(Math.random() * 20 + 15);
@@ -21,12 +20,15 @@ public class Car {
 
     public void drive100km() throws NotEnoughGas {
         if (this.amountOfFuel < 10) {
+            System.out.println("only " + this.amountOfFuel + " left, must fill the tank");
             throw new NotEnoughGas("not enough gas");
         } else {
             this.amountOfFuel -= 10;
             this.kilometersTravelled += 100;
             System.out.println(this.kilometersTravelled + " driven " + this.amountOfFuel + " left");
         }
+
+
 
     }
 
