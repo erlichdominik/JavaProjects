@@ -8,7 +8,7 @@ public class Atoi {
     public static int atoi(String str) {
         int tmp = 0;
         try {
-            tmp = Integer.parseInt(str);
+            tmp = (int)Double.parseDouble(str);
         } catch (NumberFormatException e) {
             e.getMessage();
         }

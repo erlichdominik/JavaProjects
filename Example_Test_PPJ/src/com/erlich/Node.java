@@ -12,12 +12,12 @@ public class Node {
         this(data,null);
     }
 
-    public int countNodes(Node head) {
-        int counter = 0;
-        while(head.next != null) {
-            counter++;
-            head = head.next;
-        }
-        return counter;
-    }
+//    public int countNodes(Node head) {
+//        int counter = 0;
+//        while(head.next != null) {
+//            counter++;
+//            head = head.next;
+//        }
+//        return counter;
+//    }
 }
