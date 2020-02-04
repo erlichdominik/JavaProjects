@@ -42,6 +42,7 @@ public class Main {
                     break;
                     default:
                         rpnStack.push(Double.parseDouble(s));
+                        System.out.println("random text");
                 }
             }
             System.out.println(rpnStack.pop());
