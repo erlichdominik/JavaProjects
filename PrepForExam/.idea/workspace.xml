@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f5e0666-6835-4940-b655-fe914032d199" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XM4ZyByjBQ1ZvmgE7F7nzrvSu9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaProjects/PPJ_Task_20" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Person">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.erlich.Main" />
+      <module name="PrepForExam" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.erlich.Person" />
+      <module name="PrepForExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erlich.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.erlich.Shapes" />
+      <module name="PrepForExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.erlich.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Shapes" />
+      <item itemvalue="Application.Person" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f5e0666-6835-4940-b655-fe914032d199" name="Default Changelist" comment="" />
+      <created>1580842688914</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580842688914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="199" width="374" height="596" key="#com.intellij.ide.util.MemberChooser" timestamp="1580854838073">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state x="590" y="199" width="374" height="596" key="#com.intellij.ide.util.MemberChooser/0.28.1500.972@0.28.1500.972" timestamp="1580854838073" />
+    <state x="532" y="252" key="FileChooserDialogImpl" timestamp="1580880151453">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state x="532" y="252" key="FileChooserDialogImpl/0.28.1500.972@0.28.1500.972" timestamp="1580880151453" />
+    <state width="1458" height="237" key="GridCell.Tab.0.bottom" timestamp="1580880095765">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state width="1458" height="237" key="GridCell.Tab.0.bottom/0.28.1500.972@0.28.1500.972" timestamp="1580880095765" />
+    <state width="1458" height="237" key="GridCell.Tab.0.center" timestamp="1580880095762">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state width="1458" height="237" key="GridCell.Tab.0.center/0.28.1500.972@0.28.1500.972" timestamp="1580880095762" />
+    <state width="1458" height="237" key="GridCell.Tab.0.left" timestamp="1580880095760">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state width="1458" height="237" key="GridCell.Tab.0.left/0.28.1500.972@0.28.1500.972" timestamp="1580880095760" />
+    <state width="1458" height="237" key="GridCell.Tab.0.right" timestamp="1580880095763">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state width="1458" height="237" key="GridCell.Tab.0.right/0.28.1500.972@0.28.1500.972" timestamp="1580880095763" />
+    <state x="202" y="218" width="1016" height="734" key="SettingsEditor" timestamp="1580842761268">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state x="202" y="218" width="1016" height="734" key="SettingsEditor/0.28.1500.972@0.28.1500.972" timestamp="1580842761268" />
+    <state x="443" y="227" key="run.anything.popup" timestamp="1580852687664">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state x="443" y="227" key="run.anything.popup/0.28.1500.972@0.28.1500.972" timestamp="1580852687664" />
+    <state x="442" y="239" width="670" height="58" key="search.everywhere.popup" timestamp="1580854567180">
+      <screen x="0" y="28" width="1500" height="972" />
+    </state>
+    <state x="442" y="239" width="670" height="58" key="search.everywhere.popup/0.28.1500.972@0.28.1500.972" timestamp="1580854567180" />
+  </component>
+</project>
